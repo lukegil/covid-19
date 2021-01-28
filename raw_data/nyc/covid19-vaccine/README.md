@@ -9,3 +9,4 @@ Data manually retrieved from [NYC Health Tableau workbook](https://public.tablea
 - `Cumulative or daily` column removed on 2021-01-17
 - Missed data on 2021-01-22
 - Filenames and columns changed on 2021-01-25
+- Missed data on 2021-01-27
